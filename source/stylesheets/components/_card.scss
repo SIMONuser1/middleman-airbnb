@@ -5,6 +5,9 @@
   background-position: center;
   color: white;
   position: relative;
+  margin: 16px 0;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px $light-gray;
 }
 .card-user {
   position: absolute;
